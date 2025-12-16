@@ -38,7 +38,7 @@ export default function EdjayPortfolio() {
       description: 'High-impact commercial video with motion graphics and sound design.',
       tools: ['Premiere Pro', 'After Effects', 'Audition'],
       mediaType: 'video',
-      media: '/images/video.mp4'
+      media: '/images/videoedit.mp4'
     },
     {
       title: 'Editorial Illustrations',
