@@ -313,6 +313,9 @@ export default function EdjayPortfolio() {
 
       {/* Projects Section */}
 <section id="projects" className="py-20 px-6 bg-white">
+  <h2 className="text-4xl font-bold text-[#0C2B4E] mb-12 border-b-4 border-[#1D546C] pb-4 inline-block">
+      Featured Projects
+  </h2>
   <div className="max-w-7xl mx-auto">
     <h2 className="text-4xl font-bold text-[#0C2B4E] mb-12 border-b-4 border-[#1D546C] pb-4 inline-block">
       Featured Projects
